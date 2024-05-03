@@ -1,0 +1,36 @@
+header{
+    font-size: medium;
+    background-color: #b588e7;
+    margin: auto;
+    padding: 25px;
+    text-align: center;
+}
+#container{
+    background-color: azure;
+    border: 1px solid black;
+    
+}
+#main{
+    background-color: #a7dc8a;
+
+}
+
+footer{
+    background-color: #b588e7;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+#sidebar{
+    background-color: #e3b957; 
+    width: 150px;
+    height: 236px;
+}
+#widged{
+    background-color: #eb867c;
+    float: left;
+    width: 300px;
+}
+#statistics{
+    background-color: blue;
+}
